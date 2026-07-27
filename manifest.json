@@ -1,0 +1,40 @@
+{
+  "verificationToken": "01KYJK87MPR197EFW1CD787P67",
+  "courseId": "2ad65768-198c-5614-ba63-948602ecc629",
+  "chapterId": "4a4ae561-8dac-521c-95c0-3be3b28ca295",
+  "templateId": "baw_c002_ch06",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/pre-flight-bench.md",
+      "path": "blueprints/pre-flight-bench.md"
+    },
+    {
+      "id": "prompts/clause-walk-pack.md",
+      "path": "prompts/clause-walk-pack.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-07-27T20:11:24.182Z",
+  "compositionMode": "shipgen"
+}
