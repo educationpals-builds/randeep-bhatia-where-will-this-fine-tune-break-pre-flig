@@ -1,0 +1,1 @@
+Your inspection compiles into a live pre-flight bench and a public repo. A stranger pastes their own block code and gets your discipline — the walk, the stamps, the cited lines, the tripwire — applied to their stack before their budget is on the line.
